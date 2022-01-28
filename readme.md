@@ -1,7 +1,7 @@
 # IRBL for DLSW
 This repository is a reproduction package for IRBL for DLSW projects.
 
-For data generation, scoring, and answering RQ2, we separated all tasks arranged in alphabetical order. This separation can also reduce production errors when dealing with large amounts of the dataset. In addition, if you are curious about each operation, it will be easy to look at each file.
+For data generation, scoring, and answering RQs, we separated all tasks arranged in alphabetical order. This separation can also reduce production errors when dealing with large amounts of the dataset. In addition, if you are curious about each operation, it will be easy to look at each file.
 
 ## Preparation
 - Environments: Python 3.8 + 22icst.yaml
