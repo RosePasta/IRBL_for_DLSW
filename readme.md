@@ -51,7 +51,7 @@ These folders consist of Python files for the tasks below.
 7) compute query type-based suspiciousness
 
 ## 3_experimental results
-- answer four research questions
+- Answer four research questions
 - You can download the files for the results noted in paper from https://drive.google.com/file/d/1BpUQboHl8ctKXSxI7FasPGogXUt1O7Uo/view?usp=sharing
 
 
