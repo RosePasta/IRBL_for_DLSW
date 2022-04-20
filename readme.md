@@ -56,5 +56,6 @@ These folders consist of Python files for the tasks below.
 
 
 # Contributor
-- Misoo Kim (misoo12@skku.edu)
+- Misoo Kim (misoo12@skku.edu, hanul1546@gmail.com)
 - Youngkyoung Kim (agnes66@skku.edu)
+- Eunseok Lee (leees@skku.edu)
