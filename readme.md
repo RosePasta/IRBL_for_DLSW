@@ -1,5 +1,5 @@
 # Paper
-Misoo Kim, Youngkyoung Kim, Eunseok Lee, "An Empirical Study of IR-based Bug Localization for Deep Learning-based Software", International Conference on Software Testing, Verification and Validation (ICST), 2022 (Accepted) 
+Misoo Kim, Youngkyoung Kim, Eunseok Lee, "An Empirical Study of IR-based Bug Localization for Deep Learning-based Software", International Conference on Software Testing, Verification and Validation (ICST), 2022 ([PPT](https://drive.google.com/file/d/1g__c_E4i3xNi0uFC5t9qZEr1GUrG4u0W/view?usp=sharing))
 
 # IRBL for DLSW
 This repository is a reproduction package for IRBL for DLSW projects.
